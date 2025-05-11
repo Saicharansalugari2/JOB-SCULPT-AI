@@ -1,8 +1,8 @@
 Hello,
 
-I built an  Full Stack app 🔥 AI Career Coach 🔥 
+I built a Full Stack app 🔥 AI Career Coach 🔥 
 
-Check out [here](https://github.com/Saicharansalugari2/JOB-SCULPT-AI).
+Check out [here](https://job-sculpt-ai.vercel.app/).
 
 
 An AI-powered career coaching platform built with cutting-edge technologies like Next.js, Neon Postgres, TailwindCSS, Prisma, Inngest, and Shadcn UI. This app helps users craft better resumes, prep for interviews, and generate tailored career advice using advanced LLMs.
